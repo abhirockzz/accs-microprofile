@@ -1,0 +1,5 @@
+{
+  "runtime":{"majorVersion":"8"},
+  "command":"java -jar -Dswarm.https.port=$PORT -Dswarm.context.path=/ accs-microprofile-swarm.jar",
+  "notes":"Sample Microprofile app on ACCS"
+}
